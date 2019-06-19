@@ -1,0 +1,19 @@
+body {
+    background-color: #FEFEFE;
+}
+
+div {
+    position: relative;
+    top: 14vh;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 20%;
+}
+
+input {
+    display: block;
+    margin: auto;
+    border-radius: 2em;
+}
